@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">XamYoutubeDemo</string>
+  <string name="ErrorMessage">There was an error initializing the YouTubePlayer</string>
+  
+</resources>
