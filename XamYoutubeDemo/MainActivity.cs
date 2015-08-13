@@ -40,7 +40,7 @@ namespace XamYoutubeDemo
 
         public void OnInitializationSuccess(IYouTubePlayerProvider p0, IYouTubePlayer yPlayer, bool p2)
         {
-            yPlayer.LoadVideo("ofJF-cudan4");
+            yPlayer.LoadVideo(DevConstants.VIDEO_ID);
         }
     }
 }
