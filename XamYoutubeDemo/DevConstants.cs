@@ -15,5 +15,6 @@ namespace XamYoutubeDemo
     public static class DevConstants
     {
         public static string DEVELOPER_KEY = "YOUR DEVELOPER KEY";
+        public static string VIDEO_ID = "_OBlgSz8sSM";
     }
 }
